@@ -9,3 +9,12 @@ SELECT * FROM pegawai WHERE jabatan = 'Programmer' AND gaji >= 8500000;
 
 -- Menampilkan semua pegawai dimana jabatannya bukan manager
 SELECT * FROM pegawai WHERE NOT jabatan = 'Manager';
+
+-- Mengurutkan pegawai berdasarkan nama dari A ke Z
+SELECT * FROM pegawai ORDER BY nama ASC;
+
+-- Mengurutkan pegawai berdasarkan gaji dari yang paling tinggi ke rendah
+SELECT * FROM pegawai ORDER BY gaji DESC;
+
+-- Memunculkan nama dan jabatan dari pegawai urut berdasarkan A-Z jabatannya
+select nama, jabatan from pegawai order by jabatan asc

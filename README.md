@@ -55,7 +55,3 @@ Tujuan repositori ini adalah untuk mendokumentasikan pembelajaran saya dari nol 
 Saya sangat terbuka untuk diskusi, masukan, atau peluang kolaborasi.
 
 -   **LinkedIn:** [Adiyatma Buyung](https://www.linkedin.com/in/adiyatma-buyung/)
-
-Saya sangat terbuka untuk diskusi, masukan, atau peluang kolaborasi.
-
--   **LinkedIn:** [Adiyatma Buyung](https://www.linkedin.com/in/adiyatma-buyung/)

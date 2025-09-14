@@ -19,12 +19,12 @@ Tujuan repositori ini adalah untuk mendokumentasikan pembelajaran saya dari nol 
 
 ### 1. Dasar-Dasar Database & SQL
 -   [ ] Apa itu Database Relasional? (Tabel, Baris, Kolom)
--   [ ] Perintah Dasar: `SELECT`, `FROM`, `WHERE`
+-   [x] Perintah Dasar: `SELECT`, `FROM`, `WHERE`
 -   [ ] Mengurutkan Hasil: `ORDER BY`
 -   [ ] Membatasi Hasil: `LIMIT`
 
 ### 2. Memfilter Data Lanjutan
--   [ ] Operator Logika: `AND`, `OR`, `NOT`
+-   [x] Operator Logika: `AND`, `OR`, `NOT`
 -   [ ] Operator Pembanding Lainnya: `IN`, `BETWEEN`, `LIKE`
 -   [ ] Menangani Nilai Kosong: `IS NULL`
 

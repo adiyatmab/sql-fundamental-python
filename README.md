@@ -25,8 +25,8 @@ Tujuan repositori ini adalah untuk mendokumentasikan pembelajaran saya dari nol 
 
 ### 2. Memfilter Data Lanjutan
 -   [x] Operator Logika: `AND`, `OR`, `NOT`
--   [ ] Operator Pembanding Lainnya: `IN`, `BETWEEN`, `LIKE`
--   [ ] Menangani Nilai Kosong: `IS NULL`
+-   [x] Operator Pembanding Lainnya: `IN`, `BETWEEN`, `LIKE`
+-   [x] Menangani Nilai Kosong: `IS NULL`
 
 ### 3. Menggabungkan Data dari Beberapa Tabel
 -   [ ] Konsep Primary Key & Foreign Key

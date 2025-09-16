@@ -36,3 +36,6 @@ SELECT * FROM pegawai WHERE gaji IS NULL;
 
 -- Mencari semua pegawai yang gajinya TIDAK KOSONG
 SELECT * FROM pegawai WHERE gaji IS NOT NULL;
+
+-- Mencari pegawai dengan gaji antara 6.000.000 dan 8.000.000
+SELECT * FROM pegawai WHERE gaji BETWEEN 6000000 AND 8000000;

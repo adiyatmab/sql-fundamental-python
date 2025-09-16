@@ -29,8 +29,8 @@ Tujuan repositori ini adalah untuk mendokumentasikan pembelajaran saya dari nol 
 -   [x] Menangani Nilai Kosong: `IS NULL`
 
 ### 3. Menggabungkan Data dari Beberapa Tabel
--   [ ] Konsep Primary Key & Foreign Key
--   [ ] `INNER JOIN`: Mengambil data yang cocok dari dua tabel.
+-   [x] Konsep Primary Key & Foreign Key
+-   [x] `INNER JOIN`: Mengambil data yang cocok dari dua tabel.
 -   [ ] `LEFT JOIN`: Mengambil semua data dari tabel kiri + data yang cocok dari tabel kanan.
 
 ### 4. Agregasi & Pengelompokan
